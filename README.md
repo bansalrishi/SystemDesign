@@ -7,7 +7,7 @@
 
 
 # Design Systems  
-**Tiny_Url**  
+**Design 1 :** [Tiny Url]()    
 **Design 2 :** [Twitter](https://github.com/bansalrishi/SystemDesign/blob/main/Twitter_Design.ipynb)  
 
 
