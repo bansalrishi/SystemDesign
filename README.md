@@ -6,7 +6,8 @@
 
 # Big Data  
 **Chapter 1 :** [Introduction](https://github.com/bansalrishi/SystemDesign/blob/main/Big-Data.ipynb)    
-**Chapter 2 :** 
+**Chapter 2 :** [Kafka](https://github.com/bansalrishi/SystemDesign/blob/main/Kafka.ipynb)  
+**Chapter 3 :** [Pipeline: Kafka connector and Spark](https://github.com/bansalrishi/SystemDesign/blob/main/Pipeline_Big_Data.ipynb)  
 
 # Design Systems  
 **Design 1 :** [Tiny Url]()    
