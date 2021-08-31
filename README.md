@@ -5,9 +5,11 @@
 **Chapter 3 :** [Scaling](https://github.com/bansalrishi/SystemDesign/blob/main/Scaling.ipynb)  
 
 # Big Data  
-**Chapter 1 :** [Introduction](https://github.com/bansalrishi/SystemDesign/blob/main/Big-Data.ipynb)    
-**Chapter 2 :** [Kafka](https://github.com/bansalrishi/SystemDesign/blob/main/Kafka.ipynb)  
-**Chapter 3 :** [Pipeline: Kafka connector and Spark](https://github.com/bansalrishi/SystemDesign/blob/main/Pipeline_Big_Data.ipynb)  
+**Chapter :** [Introduction](https://github.com/bansalrishi/SystemDesign/blob/main/Big-Data.ipynb)    
+**Chapter :** [A2Z Hadoop](https://github.com/bansalrishi/SystemDesign/blob/main/Hadoop_A2Z.ipynb)  
+**Chapter :** [Kafka](https://github.com/bansalrishi/SystemDesign/blob/main/Kafka.ipynb)  
+**Chapter :** [Pipeline: Kafka connector and Spark](https://github.com/bansalrishi/SystemDesign/blob/main/Pipeline_Big_Data.ipynb)  
+**Chapter :** [Hadoop and Spark](https://github.com/bansalrishi/SystemDesign/blob/main/Analytics_Hadoop_Spark.ipynb)  
 
 # Design Systems  
 **Design 1 :** [Tiny Url]()    
